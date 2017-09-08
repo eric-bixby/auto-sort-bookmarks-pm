@@ -2,15 +2,15 @@
   "name": "auto_sort_bookmarks",
   "description": "Sort bookmarks by multiple criteria",
   "version": "2.10.12",
-  "author": "Antoni Boucher, Eric Bixby",
+  "author": "Antoni Boucher",
   "bugs": {
-    "url": "https://github.com/antoyo/auto-sort-bookmarks/issues"
+    "url": "https://github.com/eric-bixby/auto-sort-bookmarks-pm/issues"
   },
   "engines": {
     "firefox": ">=38.0a1",
     "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}": ">=27.1.0b1"
   },
-  "homepage": "https://github.com/antoyo/auto-sort-bookmarks",
+  "homepage": "https://github.com/eric-bixby/auto-sort-bookmarks-pm",
   "icon": "data/icon-48.png",
   "icon64": "data/icon-64.png",
   "id": "sortbookmarks@bouanto",
@@ -219,7 +219,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antoyo/auto-sort-bookmarks.git"
+    "url": "git+https://github.com/eric-bixby/auto-sort-bookmarks-pm.git"
   },
   "scripts": {
     "jpm-travis": "jpm --binary `which firefox` test -v"
