@@ -1,7 +1,7 @@
 [Auto-Sort Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/)
 ==========================================================================================
 [![Build
-Status](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-webext.svg?branch=master)](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-webext)
+Status](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm.svg?branch=master)](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm)
 
 Firefox Plugin to Sort Bookmarks by Multiple Criteria
 
