@@ -3,7 +3,7 @@
 [![Build
 Status](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm.svg?branch=master)](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm)
 
-Firefox Plugin to Sort Bookmarks by Multiple Criteria
+Pale Moon or Firefox (before version 57/Quantum) Plugin to Sort Bookmarks by Multiple Criteria
 
 Description
 -----------
