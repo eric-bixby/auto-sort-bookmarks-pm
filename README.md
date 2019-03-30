@@ -1,17 +1,7 @@
 [Auto-Sort Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/)
 ==========================================================================================
-[![Build
-Status](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm.svg?branch=master)](https://travis-ci.org/eric-bixby/auto-sort-bookmarks-pm)
 
 Pale Moon or Firefox (before version 57/Quantum) Plugin to Sort Bookmarks by Multiple Criteria.  If using Basilisk or Firefox (version 57/Quantum or newer), then try the [Web-Extensions version](https://github.com/eric-bixby/auto-sort-bookmarks-webext) available on [Mozilla Add-on](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/).
-
-Description
------------
-
-Provide a way to sort all bookmarks and automatically sort bookmarks.
-
-This extension considers separators, so that it sorts bookmarks between separators.
-This extension adds an icon to sort all bookmarks to the toolbar. To remove it, you must choose the Customize option  in the context menu on the Firefox user interface.
 
 **Please backup your current bookmarks in case you do not like the new bookmarks order. Thus, you could restore them.**
 
