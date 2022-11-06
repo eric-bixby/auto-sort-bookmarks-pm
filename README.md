@@ -1,7 +1,7 @@
 [Auto-Sort Bookmarks](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/)
 ==========================================================================================
 
-Pale Moon or Firefox (before version 57/Quantum) Plugin to Sort Bookmarks by Multiple Criteria.  If using Basilisk or Firefox (version 57/Quantum or newer), then try the [Web-Extensions version](https://github.com/eric-bixby/auto-sort-bookmarks-webext) available on [Mozilla Add-on](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/).
+Pale Moon or Firefox (before version 57/Quantum) Plugin to Sort Bookmarks by Multiple Criteria.  If using [Basilisk](https://www.basilisk-browser.org/) or Firefox (version 57/Quantum or newer), then try the [Web-Extensions version](https://github.com/eric-bixby/auto-sort-bookmarks-webext) available on [Mozilla Add-on](https://addons.mozilla.org/en-US/firefox/addon/auto-sort-bookmarks/).
 
 **Please backup your current bookmarks in case you do not like the new bookmarks order. Thus, you could restore them.**
 
